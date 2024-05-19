@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-05-19T20:34:16.324Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="qKoMja6IQEOse9x9pOC2" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-19T20:37:24.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="YDAaavfsBv-dMEpbg26L" version="24.4.4" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="3355" dy="2518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4190" dy="2990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="F5pQEyjokl0LGO5MsDo9-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="-100" width="2570" height="1120" as="geometry" />
+        </mxCell>
         <mxCell id="F5pQEyjokl0LGO5MsDo9-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="F5pQEyjokl0LGO5MsDo9-1" target="F5pQEyjokl0LGO5MsDo9-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -150,6 +153,9 @@
         </mxCell>
         <mxCell id="F5pQEyjokl0LGO5MsDo9-62" value="доставка заказа" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="980" y="410" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F5pQEyjokl0LGO5MsDo9-64" value="class diagram" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="-100" width="2570" height="1120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
